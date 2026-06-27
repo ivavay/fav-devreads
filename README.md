@@ -1,4 +1,4 @@
-# Favorite dev reads 
+# Recent reads 
 
 Logging recent tech articles & essays read, with notes on what I learned and what I think about them.
 
